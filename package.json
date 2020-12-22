@@ -12,7 +12,7 @@
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "node-notifier": "^7.0.1",
+    "node-notifier": "^8.0.1",
     "puppeteer": "^5.1.0",
     "puppeteer-core": "^5.1.0",
     "twit": "^2.2.11"
